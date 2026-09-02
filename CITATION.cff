@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the FDRNet paper and the upstream MIMO-UNet and SCI papers."
+title: "FDRNet-PyTorch"
+type: software
+authors:
+  - family-names: Liao
+    given-names: Weicheng
+  - family-names: Ma
+    given-names: Yuhui
+  - family-names: Chen
+    given-names: Zan
+  - family-names: Zhou
+    given-names: Shijia
+  - family-names: Zhang
+    given-names: Mingen
+  - family-names: Gu
+    given-names: Yuanyuan
+  - family-names: Wang
+    given-names: Meng
+  - family-names: Zhao
+    given-names: Yitian
+repository-code: "https://github.com/iMED-Lab/FDRNet-PyTorch"
+url: "https://doi.org/10.1016/j.media.2026.104261"
+doi: "10.1016/j.media.2026.104261"
+date-released: 2026-08-10
+

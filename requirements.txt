@@ -1,0 +1,19 @@
+numpy
+Pillow
+matplotlib
+scikit-image
+scipy
+tensorboard
+torch
+torchvision
+torch-dct
+
+# FRED uses compiled MMCV operators. Install the MMCV build matching your
+# PyTorch and CUDA versions by following https://mmcv.readthedocs.io/.
+# mmcv
+
+# Optional evaluation/profiling dependencies used by legacy RICE scripts:
+# lpips
+# opencv-python
+# thop
+
